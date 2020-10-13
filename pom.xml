@@ -16,7 +16,7 @@
 <!-- 		<org.springframework.version>4.3.5.RELEASE</org.springframework.version> -->
 <!-- 		<logback.version>1.0.13</logback.version> -->
 <!-- 		<slf4j.version>1.7.22</slf4j.version> -->
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<jasperreportsVersion>6.4.0</jasperreportsVersion>
 		<oracleJdbcVersion>11.2.0.3.0</oracleJdbcVersion>
 		 
